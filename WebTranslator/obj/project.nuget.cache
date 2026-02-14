@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCo+9yyfVgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nout\\source\\repos\\WebTranslator\\WebTranslator\\WebTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nout\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

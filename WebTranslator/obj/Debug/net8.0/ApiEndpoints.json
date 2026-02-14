@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebTranslator.Controllers.ApiTranslatorController",
+    "Method": "Translate",
+    "RelativePath": "api/ApiTranslator/Translate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "from",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
